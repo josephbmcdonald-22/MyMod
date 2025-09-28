@@ -727,7 +727,7 @@
 	</Define>
 	<Define>
 		<DefineName>GLOBAL_WARMING_PROB</DefineName>
-		<iDefineIntVal>20</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>GLOBAL_WARMING_FOREST</DefineName>
@@ -1667,3 +1667,4 @@
 		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 </Civ4Defines>
+
